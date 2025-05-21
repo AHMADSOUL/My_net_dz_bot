@@ -2,7 +2,7 @@
 import telebot
 import requests
 
-TOKEN = "7723535106:AAFfDvPr80ET6vhUXdIRX6nqCTPxXWiTEBk"
+TOKEN = "7332330199:AAHtkK1PFebaCMZiaNL3Dh8UpV-stv2H_6s"
 bot = telebot.TeleBot(TOKEN)
 
 def get_network_info():
