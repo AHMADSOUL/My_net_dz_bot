@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: my-net-dz-bot
+    env: python
+    buildCommand: ""
+    startCommand: python bot_render_ready.py
+    plan: free
